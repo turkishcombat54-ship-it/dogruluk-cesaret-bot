@@ -1,0 +1,9 @@
+[app]
+name = "dogruluk-cesaret-bot"
+primary_region = "ams"
+
+[build]
+dockerfile = "Dockerfile"
+
+[deploy]
+strategy = "immediate"
